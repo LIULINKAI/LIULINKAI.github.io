@@ -15,13 +15,17 @@ I am currently studying for a master's degree at the School of Intelligent Engin
 Research Interests
 ------
 - **Visual Attention**: Attention Prediction, Scanpath Prediction, Attention-Guided Deep Model
-- **Human-centric Perception**: Intention, Interaction, Behavior, VQA for Blind People
+- **Human-centric Perception**: Human-object detection
+- **Remote Sensing Detection**: Rotating object detection in large-scale remote sensing images
+- **Big Data Technology**: Distributed Computing, Database Management, Big Data Analysis
 - **Autonomous Driving Perception**: Traffic Scene Graph, Driving Behavior Understanding
 
 
 News
 ------
 * ***2023.11*** $~~$ We are the winner of ROAD-R challenge in Neurips 2023.
+* ***2022.06*** $~~$ We won the first prize in the Huawei ICT Competition Global Competition.
+* ***2021.11*** $~~$ We 
 
 <br>
 
