@@ -24,6 +24,7 @@ Research Interests
 News
 ------
 * ***2023.11*** $~~$ We are the winner of ROAD-R challenge in Neurips 2023.
+* ***2022.07*** $~~$ I joined the data engineering internship position in the CSIG department of Tencent Cloud Intelligence R&D Company.
 * ***2022.09*** $~~$ One paper was accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
 * ***2022.06*** $~~$ We won the first prize in the Huawei ICT Competition Global Competition.
 * ***2021.11*** $~~$ We won the first prize in the national finals of the Huawei ICT Competition.
