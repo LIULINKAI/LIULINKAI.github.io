@@ -28,9 +28,10 @@ News
 * ***2023.04*** $~~$ I ended my internship at Xiaomi.
 * ***2022.10*** $~~$ I ended my internship at Tencent and joined Xiaomi a few weeks later for my second internship.
 * ***2022.09*** $~~$ One paper was accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
+* ***2022.08*** $~~$ I received the Huawei Research and Innovation Scholarship at China University of Geosciences.
 * ***2022.07*** $~~$ I joined the data engineering internship position in the CSIG department of Tencent Cloud Intelligence R&D Company.
 * ***2022.06*** $~~$ We won the first prize in the Huawei ICT Competition Global Competition.
-* ***2022.06*** $~~$ We won the first prize in the Huawei ICT Competition Global Competition.
+* ***2021.12*** $~~$ We won 15th place in CCF Big Data & Computing Intelligence Contest.
 * ***2021.11*** $~~$ We won the first prize in the national finals of the Huawei ICT Competition.
 
 <br>
