@@ -25,6 +25,7 @@ News
 ------
 * ***2023.11*** $~~$ We are the winner of ROAD-R challenge in Neurips 2023.
 * ***2023.09*** $~~$ I was recommended to study for a master's degree at the School of Intelligent Engineering at Sun Yat-sen University, and my supervisor was Professor [Gou Chao](https://chaogou.github.io/).
+* ***2023.07*** $~~$ I received my bachelor's degree in data science and big data technology from China University of Geosciences.
 * ***2023.04*** $~~$ I ended my internship at Xiaomi.
 * ***2022.10*** $~~$ I ended my internship at Tencent and joined Xiaomi a few weeks later for my second internship.
 * ***2022.09*** $~~$ One paper was accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
@@ -33,6 +34,10 @@ News
 * ***2022.06*** $~~$ We won the first prize in the Huawei ICT Competition Global Competition.
 * ***2021.12*** $~~$ We won 15th place in CCF Big Data & Computing Intelligence Contest.
 * ***2021.11*** $~~$ We won the first prize in the national finals of the Huawei ICT Competition.
+* ***2021.10*** $~~$ We won the first prize in Hubei Province in the National College Student Mathematical Modeling Competition.
+* ***2021.09*** $~~$ I won the Academician Scholarship of China University of Geosciences.
+* ***2021.09*** $~~$ We won the top 64 in Hubei and Hunan provinces in the Huawei Elite Software Challenge.
+* ***2020.09*** $~~$ We won the national first prize in the Teddy Cup Data Analysis Vocational Skills Competition.
 
 <br>
 
