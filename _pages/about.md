@@ -24,7 +24,7 @@ Research Interests
 News
 ------
 * ***2024.02*** $~~$ One paper was accepted by CVPR 2024.
-* ***2023.11*** $~~$ We are the winner of [ROAD-R challenge](https://sites.google.com/view/road-r/winners) in Neurips 2023.
+* ***2023.11*** $~~$ We have been [the winner(1st)](https://sites.google.com/view/road-r/winners) of ROAD-R(the Road Event Detection with Requirements) challenge for Neurips2023.
 * ***2023.09*** $~~$ I was recommended to study for a master's degree at the School of Intelligent Engineering at Sun Yat-sen University, and my supervisor was Professor [Gou Chao](https://chaogou.github.io/).
 * ***2023.07*** $~~$ I received my bachelor's degree in data science and big data technology from China University of Geosciences.
 * ***2023.04*** $~~$ I ended my internship at Xiaomi.
