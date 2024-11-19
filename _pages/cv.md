@@ -31,7 +31,13 @@ redirect_from:
 
 
 ## 🏆 Competitions
-- **2023** Winner (1st) of [Road Event Detection with Requirements (ROAD-R) Challenge](https://sites.google.com/view/road-r/winners) – NeurIPS 2023
+* **2024** Winner (1st) of [Road Event Detection with Requirements (ROAD-R) Challenge](https://sites.google.com/view/road-r/winners) – NeurIPS 2023
+* **2023** Huawei ICT Innovation Competition Global First Prize (Team Leader)
+* **2022** Top 64 players in Wuhan and Changsha of Huawei Software Elite Challenge (Team Leader)
+* **2021** Huawei ICT Innovation Competition National First Prize (Team Leader)
+* **2021** First Prize of Hubei Province in the National College Mathematical Modeling Competition (Team Leader)
+* **2021** 15th place in CCF Big Data and Computational Intelligence Competition (Team Leader)
+* **2021** National First Prize in Teddy Cup Data Analysis Skills Competition
 ------
 
 <!-- ## 🤝 Academic services
