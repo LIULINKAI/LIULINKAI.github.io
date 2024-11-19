@@ -24,11 +24,6 @@ redirect_from:
 * **Tencent - CSIG - Data Engineering (Internship)**, Jun. 2022 - Oct. 2022
   * Job Description: Responsible for database analysis, combining machine learning knowledge to mine abnormal meetings in Tencent Conference.
  
-------
-
-<!-- ## 🏆 Honors
-- **2024**  -->
-
 
 ## 🏆 Competitions
 * **2024** Winner (1st) of [Road Event Detection with Requirements (ROAD-R) Challenge](https://sites.google.com/view/road-r/winners) – NeurIPS 2023
@@ -38,6 +33,14 @@ redirect_from:
 * **2021** First Prize of Hubei Province in the National College Mathematical Modeling Competition (Team Leader)
 * **2021** 15th place in CCF Big Data and Computational Intelligence Competition (Team Leader)
 * **2021** National First Prize in Teddy Cup Data Analysis Skills Competition
+
+------
+
+## 🏆 Honors
+* **2023** Huawei Research and Innovation Scholarship
+* **2023** China University of Geosciences Academic Scholarship
+* **2022** Received funding from the Qihang Project of the Undergraduate Independent Innovation Funding Program
+* **2022** China University of Geosciences Academic Progress Scholarship
 
 <!-- ------ -->
 
