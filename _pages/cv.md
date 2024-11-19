@@ -21,7 +21,7 @@ redirect_from:
   * Job Description: Mainly research the generation of selling point text to advertising creative videos.
 * **Xiaomi - Server Test Development Engineer (Internship)**, Oct. 2022 - Apr. 2023
   * Job Description: Responsible for the intelligent service function testing in Mijia APP.
-* **Tencent-CSIG-Data Engineering (Internship)**, Oct. 2022 - Jun. 2022
+* **Tencent - CSIG-Data Engineering (Internship)**, Oct. 2022 - Jun. 2022
   * Job Description: Responsible for database analysis, combining machine learning knowledge to mine abnormal meetings in Tencent Conference.
  
 ------
