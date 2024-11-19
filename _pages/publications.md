@@ -6,10 +6,6 @@ author_profile: true
 ---
 
 [1]  Zhou Y, **Liu L**, Gou C. Learning from Observer Gaze: Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (CCF-A)
-<<<<<<< HEAD
-=======
-
->>>>>>> 808a19e068ec11ab34933d6f7344ea4e61fdd68e
 [2]  **Liu, L**., Liu, Y., Yan, J., Liu, H., Li, M., Wang, J., & Zhou, K. (2022). Object Detection in Large-Scale Remote Sensing Images With a Distributed Deep Learning Framework. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 15, 8142-8154. (JCR-Q1)  
 
 ------
