@@ -47,3 +47,4 @@ News
 Contact me
 ------
 Email: abc15913538042@163.com
+<!-- Google Scholar: https://scholar.google.com/citations?user=pilu-FYAAAAJ&hl=en&oi=ao -->
