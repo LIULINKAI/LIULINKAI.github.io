@@ -38,7 +38,8 @@ redirect_from:
 * **2021** First Prize of Hubei Province in the National College Mathematical Modeling Competition (Team Leader)
 * **2021** 15th place in CCF Big Data and Computational Intelligence Competition (Team Leader)
 * **2021** National First Prize in Teddy Cup Data Analysis Skills Competition
-------
+
+<!-- ------ -->
 
 <!-- ## 🤝 Academic services
 - Student Member of IEEE, ACM, IEEE SPS, CAA, and CAAI.
