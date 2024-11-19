@@ -7,7 +7,46 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
+## 🎓 Education
+* **M.S. Student at Sun Yat-sen University (SYSU)**, Sep. 2023 - Jun. 2026
+  * Advisor: Prof. Chao Gou
+* **China University of Geosciences (CUG)**, Sep. 2019 - Jun. 2023
+  * Professional Name: Data Science and Big Data Technology
+
+------
+
+## 💻 Intern Experience
+* **JD.com - JD Retail - Algorithm Application Engineer Intern**, Jun. 2024 - Nov. 2024
+  * Job Description: Mainly research the generation of selling point text to advertising creative videos.
+* **Xiaomi - Server Test Development Engineer (Internship)**, Oct. 2022 - Apr. 2023
+  * Job Description: Responsible for the intelligent service function testing in Mijia APP.
+* **Tencent-CSIG-Data Engineering (Internship)**, Oct. 2022 - Jun. 2022
+  * Job Description: Responsible for database analysis, combining machine learning knowledge to mine abnormal meetings in Tencent Conference.
+ 
+------
+
+<!-- ## 🏆 Honors
+- **2024**  -->
+
+
+## 🏆 Competitions
+- **2023** Winner (1st) of [Road Event Detection with Requirements (ROAD-R) Challenge](https://sites.google.com/view/road-r/winners) – NeurIPS 2023
+------
+
+<!-- ## 🤝 Academic services
+- Student Member of IEEE, ACM, IEEE SPS, CAA, and CAAI.
+- Reviewer of T-NNLS, T-ITS, T-IV, SPL, J-SC, ACM MM, ITSC, DTPI.
+- Sub-Reviewer of T-PAMI, NeurIPS, ICLR.
+
+------
+
+## 👨‍🏫 Teaching Services
+Teaching Assistant for Pattern Recognition \& Machine Learning, 2021/22 Fall.
+
+------ -->
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -56,4 +95,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
