@@ -25,6 +25,8 @@ redirect_from:
   * Job Description: Responsible for database analysis, combining machine learning knowledge to mine abnormal meetings in Tencent Conference.
  
 
+------
+
 ## 🏆 Competitions
 * **2024** Winner (1st) of [Road Event Detection with Requirements (ROAD-R) Challenge](https://sites.google.com/view/road-r/winners) – NeurIPS 2023
 * **2023** Huawei ICT Innovation Competition Global First Prize (Team Leader)
