@@ -9,6 +9,7 @@ author_profile: true
 
 [2]  **Liu, L**., Liu, Y., Yan, J., Liu, H., Li, M., Wang, J., & Zhou, K. (2022). Object Detection in Large-Scale Remote Sensing Images With a Distributed Deep Learning Framework. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 15, 8142-8154. (JCR-Q1)  
 
+[3] Chen, X., Feng, W., Du, Z., Wang, W., Wang, H., **Liu, L.**, ... & Sang, N. CTR-Driven Advertising Image Generation with Multimodal Large Language Models. In THE WEB CONFERENCE 2025. (CCF-A)
 ------
 
 <!-- {% if author.googlescholar %}
