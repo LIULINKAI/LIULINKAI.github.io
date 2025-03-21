@@ -11,6 +11,8 @@ author_profile: true
 
 [3] Chen, X., Feng, W., Du, Z., Wang, W., Wang, H., **Liu, L.**, ... & Sang, N. CTR-Driven Advertising Image Generation with Multimodal Large Language Models. In THE WEB CONFERENCE 2025. (CCF-A)
 
+[4] **Liu L**, Xiao X, Yang Y, Zhou Y, Guo Z, Gou C. Boosting Road Event Detection with Adaptive Multi-Modal Models. IEEE International Conference on Multimedia & Expo 2025. (CCF-B)
+
 ------
 
 <!-- {% if author.googlescholar %}

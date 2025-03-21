@@ -23,6 +23,7 @@ Research Interests
 
 News
 ------
+* ***2025.03*** $~~$ One paper was accepted by [ICME 2025]().
 * ***2025.01*** $~~$ One paper was accepted by [WWW 2025](https://arxiv.org/html/2502.06823v1#:~:text=To%20address%20this%20limitation%2C%20we%20explore%20the%20use,for%20Click-Through%20Rate%20%28CTR%29%20as%20the%20primary%20objective.).
 * ***2024.11*** $~~$ I finished my internship at JD.com.
 * ***2024.06*** $~~$ I joined JD.com as an algorithm application engineer intern in the JD Retail department.
