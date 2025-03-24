@@ -14,16 +14,16 @@ I am currently studying for a master's degree at the School of Intelligent Engin
 
 Research Interests
 ------
-- **Visual Attention**: Attention Prediction, Scanpath Prediction, Attention-Guided Deep Model
+- **Multimodal Learning**: Application of multimodal large models
+- **Video Understanding and Generation**: Text-to-Video, Weakly supervised temporal action localization
 - **Human-centric Perception**: Human-object detection
 - **Remote Sensing Detection**: Rotating object detection in large-scale remote sensing images
-- **Big Data Technology**: Distributed Computing, Database Management, Big Data Analysis
 - **Autonomous Driving Perception**: Traffic Scene Graph, Driving Behavior Understanding
 
 
 News
 ------
-* ***2025.03*** $~~$ One paper was accepted by [ICME 2025]().
+* ***2025.03*** $~~$ One paper was accepted by [ICME 2025](https://liulinkai.github.io/AdaRED/).
 * ***2025.01*** $~~$ One paper was accepted by [WWW 2025](https://arxiv.org/html/2502.06823v1#:~:text=To%20address%20this%20limitation%2C%20we%20explore%20the%20use,for%20Click-Through%20Rate%20%28CTR%29%20as%20the%20primary%20objective.).
 * ***2024.11*** $~~$ I finished my internship at JD.com.
 * ***2024.06*** $~~$ I joined JD.com as an algorithm application engineer intern in the JD Retail department.
