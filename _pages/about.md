@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I received my bachelor's degree in data science and big data technology from China University of Geosciences. During this period, I mainly studied the application of big data computing frameworks such as Hadoop and Spark, database management, and computer vision.
-I am currently studying for a master's degree at the School of Intelligent Engineering at Sun Yat-sen University, focusing on computer vision-related fields. Especially in human-object interaction detection, scene understanding of autonomous driving, including vehicle and pedestrian behavior detection, etc.
-
+I graduated from China University of Geosciences with a bachelor's degree in Data Science and Big Data Technology. During this period, I mainly learned about the application of big data computing frameworks such as Hadoop and Spark, database management, computer vision and other related knowledge.
+I am currently pursuing a master's degree at the School of Intelligent Engineering of Sun Yat-sen University, mainly researching computer vision related fields. I am particularly good at the application of multimodal large models, video understanding and generation, human interaction detection, and autonomous driving scene understanding, including vehicle and pedestrian behavior detection.
 
 Research Interests
 ------
