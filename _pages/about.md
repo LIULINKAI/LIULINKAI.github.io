@@ -22,6 +22,8 @@ Research Interests
 
 News
 ------
+* ***2025.12*** $~~$ One paper is accepted by ITSM 2025.
+* ***2025.06*** $~~$ One paper is accepted by [ICCV 2025](https://arxiv.org/pdf/2506.23088) Hightlight (Top3%).
 * ***2025.03*** $~~$ One paper was accepted by [ICME 2025](https://liulinkai.github.io/AdaRED/).
 * ***2025.01*** $~~$ One paper was accepted by [WWW 2025](https://arxiv.org/html/2502.06823v1#:~:text=To%20address%20this%20limitation%2C%20we%20explore%20the%20use,for%20Click-Through%20Rate%20%28CTR%29%20as%20the%20primary%20objective.).
 * ***2024.11*** $~~$ I finished my internship at JD.com.
